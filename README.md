@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning python, c++ and SQL languages
 - 📫 How to reach me domingoscarmoneto@gmail.com
 
-https://www.linkedin.com/in/domingos-neto-7648021ba/
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas123-coder&layout=compact&theme=dracula)
