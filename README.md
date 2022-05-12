@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @domingosscneto
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 I’m studying Python, C, C++, C#, JavaScript and SQL languages 
+- 💻 I’m studying Python, C, C++, C#, JavaScript and SQL languages 
 - 📫 How to reach me domingoscarmoneto@gmail.com
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=domingosscneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
