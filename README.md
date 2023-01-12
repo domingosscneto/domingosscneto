@@ -2,6 +2,7 @@
 - 💻 I’m studying Python, C, C++, C#, JavaScript, HTML and CSS languages 
 - 📫 How to reach me domingoscarmoneto@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=domingosscneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingosscneto&layout=compact&langs_count=7&theme=dracula"/>
 
