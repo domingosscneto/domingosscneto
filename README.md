@@ -2,10 +2,9 @@
 - 💻 I’m studying Python, C, C++, C#, JavaScript, HTML and CSS languages 
 - 📫 How to reach me domingoscarmoneto@gmail.com
 
-[![domingosscneto's GitHub stats](https://github-readme-stats.vercel.app/api?username=domingosscneto)](https://github.com/anuraghazra/github-readme-stats)
+[![domingosscneto's GitHub stats](https://github-readme-stats.vercel.app/api?username=domingosscneto&theme=monokai&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=domingosscneto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingosscneto&layout=compact&langs_count=7&theme=dracula"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domingosscneto&theme=monokai&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
