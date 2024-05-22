@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @domingosscneto
-- 💻 I’m studying Python, C, C++, C#, JavaScript, HTML and CSS languages 
+- 💻 Data Scientist
+- 🐍 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | SHAP | Plotly | Databricks | Azure
 - 📫 How to reach me domingoscarmoneto@gmail.com
 
 [![domingosscneto's GitHub stats](https://github-readme-stats.vercel.app/api?username=domingosscneto&theme=monokai&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
